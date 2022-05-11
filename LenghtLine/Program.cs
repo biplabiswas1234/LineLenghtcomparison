@@ -7,6 +7,7 @@ namespace LineComparing
         public double LenghtOfLine()
         {
             Console.WriteLine("Enter the cartesian coordinates of  (x1,y1)");
+            //Console.WriteLine("Enter the cartesian coordinates of  (x1,y1)");
             double x1 = Convert.ToInt32(Console.ReadLine());
             double y1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the cartesian coordinates of (x2,y2)");
